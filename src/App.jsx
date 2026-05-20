@@ -28,7 +28,7 @@ function App() {
         >
           Count is {count}
         </button>
-        <div>😎</div>
+        <div>😎!!!!!!!!!!!</div>
       </section>
 
       <div className="ticks"></div>
